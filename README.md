@@ -1,4 +1,6 @@
 # Amazon-Sales-Data
+![Dashboard 1 (5)](https://github.com/kaifahmed2002/Amazon-Sales-Data/assets/92524691/7d9b004e-2b1a-48cd-835e-5a53793ce3a0)
+
 
 ## Project Overview
 
@@ -14,12 +16,19 @@
 
 ## 1. Data Cleaning and Preprocessing
 
+### Dataset columns: Region, Country, Item Type, Sales Channel, Order Priority, Order Date, Order ID, Ship Date, Units Sold, Unit Price, Unit Cost, Total Revenue, Total Cost, Total Profit.
+
 ### Key Steps:
-### Handled missing values and removed duplicates.
-### Ensured correct date formats.
-### Normalized categorical data.
+#### Handled missing values and removed duplicates.
+#### Ensured correct date formats.
+#### Normalized categorical data.
 
-
+### Key Questions:
+#### Overall sales trends month-wise?
+#### Year-wise sales trends?
+#### Comparison of sales for the same month across different years?
+#### Peak sales periods?
+#### Patterns or anomalies in sales data?
 
 ## 2. Exploratory Data Analysis (EDA)
 
@@ -56,13 +65,16 @@ Yearly sales and profit data
 
 ### C. Peak Sales Periods
 Top 5 peak sales months
-![3](https://github.com/kaifahmed2002/Amazon-Sales-Data/assets/92524691/ed58e7fc-415c-4729-8c7a-eef613eacb90)
+![6](https://github.com/kaifahmed2002/Amazon-Sales-Data/assets/92524691/e17353d9-27a7-456f-9ce3-6187deb09a81)
 
-### D. Sales Performance by Region and Country
+### D. Region Sales and Profit Trend
+![3](https://github.com/kaifahmed2002/Amazon-Sales-Data/assets/92524691/73244df1-0b4a-4825-a1a6-7d149243849f)
+
+### E. Sales Performance by Region and Country
 Revenue and profit by region and country
 ![4](https://github.com/kaifahmed2002/Amazon-Sales-Data/assets/92524691/6fa245b9-072d-4e6a-ba4f-6748636d3801)
 
-### E. Sales By Country
+### F. Sales By Country
 ![5](https://github.com/kaifahmed2002/Amazon-Sales-Data/assets/92524691/b1c4cd6f-2127-4a5d-90be-a5924787d381)
 
 
