@@ -78,8 +78,8 @@ Revenue and profit by region and country
 ![5](https://github.com/kaifahmed2002/Amazon-Sales-Data/assets/92524691/b1c4cd6f-2127-4a5d-90be-a5924787d381)
 
 
-
-
+## Try Dynamic Dashboard 👇
+https://public.tableau.com/views/UnifiedMentorP1/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 
 
