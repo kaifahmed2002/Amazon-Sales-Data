@@ -20,9 +20,6 @@ Provide an overview of sales performance, identify trends, and highlight key ins
 ### 6. Recommendations for Future Analysis or Actions
 
 
-## Objective: Provide an overview of sales performance, identify trends, and highlight key insights to inform business decisions
-
-
 
 ## 1. Data Cleaning and Preprocessing
 
