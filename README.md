@@ -131,7 +131,6 @@ Conduct a deeper analysis of monthly and yearly trends to identify any underlyin
 Use time-series forecasting methods to predict future sales trends and prepare accordingly.
 
 ## Try Dynamic Dashboard 👇
-https://public.tableau.com/views/UnifiedMentorP1/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
-
+https://public.tableau.com/views/UnifiedMentorP1/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
