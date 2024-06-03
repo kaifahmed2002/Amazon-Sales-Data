@@ -1,4 +1,5 @@
 # Amazon-Sales-Data
+In the rapidly evolving e-commerce industry, understanding sales performance is vital for maintaining a competitive edge and driving business growth. This project focuses on analyzing Amazon's sales data to gain valuable insights into the company's performance, identify emerging trends, and provide actionable recommendations to inform strategic business decisions.
 ![Dashboard 1 (5)](https://github.com/kaifahmed2002/Amazon-Sales-Data/assets/92524691/7d9b004e-2b1a-48cd-835e-5a53793ce3a0)
 
 ## Problem Statement:
